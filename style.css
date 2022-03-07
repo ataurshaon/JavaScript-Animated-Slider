@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    text-align: center;
+    background-color: brown;
+    color: azure;
+    margin-bottom: 10px;
+}
